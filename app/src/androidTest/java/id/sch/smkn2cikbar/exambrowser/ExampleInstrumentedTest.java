@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("id.sch.smkn2cikbar.exambrowser", appContext.getPackageName());
+        assertEquals("/cbtid.sch.smanegeri1gringsing.exambrowser", appContext.getPackageName());
     }
 }
