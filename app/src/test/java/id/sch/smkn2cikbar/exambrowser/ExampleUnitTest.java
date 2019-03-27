@@ -1,4 +1,4 @@
-package id.sch.smkn2cikbar.exambrowser;
+package cbt/id.sch.smanegeri1gringsing.exambrowser;
 
 import org.junit.Test;
 
